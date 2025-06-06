@@ -19,9 +19,10 @@ Data Visualization - Visualized trends using bar charts, treemaps, and other gra
 Affinity Analysis - Analyzed brand affinity to understand customer preferences across different brands and pack sizes on target segments.
 
 # Tools & Libraries
-Python
-Pandas
-Numpy 
-Matplotlib
-Seaborn
-Plotly
+1. Python
+2. Pandas
+3. Numpy 
+4. Matplotlib
+5. Seaborn
+6. Plotly
+

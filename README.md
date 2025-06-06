@@ -14,8 +14,11 @@ Deep dive into customer segments – define your recommendation from your insigh
 
 # What I Did
 Simple Text Analysis - Performed basic text analysis on product names/descriptions to extract useful information (e.g., simplifying Brand Name).
+
 Feature Engineering - Created new feature for better understanding the customer and transaction data to draw meaning insights.
+
 Data Visualization - Visualized trends using bar charts, treemaps, and other graphical tools to effectively communicate insights.
+
 Affinity Analysis - Analyzed brand affinity to understand customer preferences across different brands and pack sizes on target segments.
 
 # Tools & Libraries
